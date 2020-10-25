@@ -1,1 +1,1 @@
-<h1 align="center" color="blue">Apresentação README.md</h1>
+<h1 align="center">Apresentação README.md</h1>
